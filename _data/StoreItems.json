@@ -2128,7 +2128,7 @@
       "abr": "arcanescript:???",
       "category": "Skill books",
       "defname": "BookOfQuestion",
-      "price": 2500
+      "price": 5000
     },
     {
       "abr": "arcanespell:gateway",
@@ -2140,109 +2140,109 @@
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": 7500
+      "price": 15000
     },
     {
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": 9000
+      "price": 18000
     },
     {
       "abr": "arcanetome:chaosmage",
       "category": "Skill books",
       "defname": "BookOfChaos",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "arcanetome:chronomancer",
       "category": "Skill books",
       "defname": "BookOfChronomancer",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "arcanetome:demonology",
       "category": "Skill books",
       "defname": "BookOfDemons",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "arcanetome:earth",
       "category": "Skill books",
       "defname": "BookOfEarth",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "arcanetome:enchanter",
       "category": "Skill books",
       "defname": "BookOfEnchanter",
-      "price": 7500
+      "price": 15000
     },
     {
       "abr": "arcanetome:fire",
       "category": "Skill books",
       "defname": "BookOfInnerFire",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "arcanetome:hemomancy",
       "category": "Skill books",
       "defname": "BookOfHemomancy",
-      "price": 9000
+      "price": 18000
     },
     {
       "abr": "arcanetome:ice",
       "category": "Skill books",
       "defname": "BookOfHeartOfFrost",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "arcanetome:lightning",
       "category": "Skill books",
       "defname": "BookOfStormBorn",
-      "price": 9000
+      "price": 18000
     },
     {
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": 7500
+      "price": 15000
     },
     {
       "abr": "arcanetome:necromancer",
       "category": "Skill books",
       "defname": "BookOfNecromancer",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "arcanetome:power",
       "category": "Skill books",
       "defname": "BookOfArcanist",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": 7500
+      "price": 15000
     },
     {
       "abr": "arcanetome:shadow",
       "category": "Skill books",
       "defname": "BookOfShadow",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "arcanetome:shaman",
       "category": "Skill books",
       "defname": "BookOfShamanism",
-      "price": 9000
+      "price": 18000
     },
     {
       "abr": "arcanetome:summoning",
       "category": "Skill books",
       "defname": "BookOfSummoner",
-      "price": 9000
+      "price": 18000
     },
     {
       "abr": "archotechsculpture",
@@ -2296,7 +2296,7 @@
       "abr": "bardspell:battlehymn",
       "category": "Scrolls",
       "defname": "SpellOf_BattleHymn",
-      "price": 2750
+      "price": 3000
     },
     {
       "abr": "bardspell:discord",
@@ -2704,43 +2704,43 @@
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": 4292
+      "price": 18000
     },
     {
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": 4292
+      "price": 12000
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": 7500
+      "price": 12000
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": 7500
+      "price": 15000
     },
     {
       "abr": "combatstyle:deathknight",
       "category": "Skill books",
       "defname": "BookOfDeathKnight",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "combatstyle:monk",
       "category": "Skill books",
       "defname": "BookOfMonk",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "condimentpreptable",
@@ -2938,7 +2938,7 @@
       "abr": "divinetome:paladin",
       "category": "Skill books",
       "defname": "BookOfValiant",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "dogmeat",
@@ -3004,7 +3004,7 @@
       "abr": "druidspell:regrowlimb",
       "category": "Scrolls",
       "defname": "SpellOf_RegrowLimb",
-      "price": 3100
+      "price": 4500
     },
     {
       "abr": "duck",
@@ -5608,109 +5608,109 @@
       "abr": "tornscript:bard",
       "category": "Skill books",
       "defname": "Torn_BookOfBard",
-      "price": 3750
+      "price": 7500
     },
     {
       "abr": "tornscript:brightmage",
       "category": "Skill books",
       "defname": "Torn_BookOfTheSun",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "tornscript:chaos",
       "category": "Skill books",
       "defname": "Torn_BookOfChaos",
-      "price": 1500
+      "price": 3000
     },
     {
       "abr": "tornscript:chronomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfChronomancer",
-      "price": 2250
+      "price": 4500
     },
     {
       "abr": "tornscript:demonology",
       "category": "Skill books",
       "defname": "Torn_BookOfDemons",
-      "price": 1500
+      "price": 3000
     },
     {
       "abr": "tornscript:enchanter",
       "category": "Skill books",
       "defname": "Torn_BookOfEnchanter",
-      "price": 3750
+      "price": 7500
     },
     {
       "abr": "tornscript:fire",
       "category": "Skill books",
       "defname": "Torn_BookOfInnerFire",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "tornscript:geomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfEarth",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "tornscript:hemomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfHemomancy",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "tornscript:ice",
       "category": "Skill books",
       "defname": "Torn_BookOfHeartOfFrost",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "tornscript:lightning",
       "category": "Skill books",
       "defname": "Torn_BookOfStormBorn",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "tornscript:nature",
       "category": "Skill books",
       "defname": "Torn_BookOfNature",
-      "price": 3750
+      "price": 7500
     },
     {
       "abr": "tornscript:necromancy",
       "category": "Skill books",
       "defname": "Torn_BookOfUndead",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "tornscript:paladin",
       "category": "Skill books",
       "defname": "Torn_BookOfValiant",
-      "price": 3000
+      "price": 6000
     },
     {
       "abr": "tornscript:power",
       "category": "Skill books",
       "defname": "Torn_BookOfArcanist",
-      "price": 2250
+      "price": 4500
     },
     {
       "abr": "tornscript:priest",
       "category": "Skill books",
       "defname": "Torn_BookOfPriest",
-      "price": 3750
+      "price": 7500
     },
     {
       "abr": "tornscript:shaman",
       "category": "Skill books",
       "defname": "Torn_BookOfShamanism",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "tornscript:summoning",
       "category": "Skill books",
       "defname": "Torn_BookOfSummoner",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "trainingdummy",
@@ -7156,7 +7156,7 @@
       "abr": "arcanetome:golemancer",
       "category": "Skill books",
       "defname": "BookOfGolemancy",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "archerytarget",
@@ -7606,7 +7606,7 @@
       "abr": "combatstyle:apothecary",
       "category": "Skill books",
       "defname": "BookOfApothecary",
-      "price": 4500
+      "price": 9000
     },
     {
       "abr": "compoundbow",
@@ -12088,7 +12088,7 @@
       "abr": "tornscript:golemancer",
       "category": "Skill books",
       "defname": "Torn_BookOfGolemancy",
-      "price": 2250
+      "price": 4500
     },
     {
       "abr": "torturecrown",
