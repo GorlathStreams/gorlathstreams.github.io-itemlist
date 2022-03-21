@@ -8146,7 +8146,7 @@
       "name": "gladiator-rwom",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 11000,
+      "addPrice": 9500,
       "removePrice": 2000,
       "degree": 0
     },
@@ -9490,7 +9490,7 @@
       "name": "bladedancer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 11000,
+      "addPrice": 9500,
       "removePrice": 2000,
       "degree": 0
     },
