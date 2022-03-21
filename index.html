@@ -169,8 +169,6 @@ title: Store
         {{ site.data.language.name_header }},{{ site.data.language.cost_header }}
     {% endcapture %}
 
-    NOTE: You will need to !fixmypawn after buying a Kurin, Destrier, and Uniponen colonist.
-
     {%- include store_tab.html
         id='kinds'
         type='Pawn'
@@ -179,6 +177,8 @@ title: Store
         headers=headers
         displayData=kindsForDisplay
         placeholder=site.data.language.search_pawn_kinds -%}
+
+    NOTE: You will need to !fixmypawn after buying a Kurin, Destrier, or Uniponen colonist.
 {%- endif -%}
 
 
