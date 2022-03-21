@@ -10,7 +10,9 @@
     {%- assign priceDataHeaders = include.priceDataHeaders -%}
 
     {%- include search.html id=id type=type placeholder=placeholder -%}
-    NOTE: You will need to !fixmypawn after buying a Kurin, Destrier, or Uniponen colonist.
+    {%- if include.type == 'Pawn' -%}
+        NOTE: You will need to !fixmypawn after buying a Kurin, Destrier, or Uniponen colonist.
+    {%- endif -%}
     {%- include content.html
         type=type
         buyName=buyName
