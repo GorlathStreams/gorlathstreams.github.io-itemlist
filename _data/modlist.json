@@ -241,6 +241,12 @@
   },
   {
     "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "Fluffy",
     "name": "Animal Tab",
     "steamId": "712141500",
     "version": "4.7.272"
@@ -486,6 +492,24 @@
     "version": "1.0.0"
   },
   {
+    "author": "Tidal",
+    "name": "More Vanilla Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tenthwit",
+    "name": "Retextured Sculptures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Nothing but just a Royalty Aeroship",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Expanded - Ideology Patches",
     "steamId": null,
@@ -702,6 +726,12 @@
     "version": null
   },
   {
+    "author": "Ashilstraza",
+    "name": "Cutebold Race",
+    "steamId": "2147295726",
+    "version": "2.3.16"
+  },
+  {
     "author": "Kerevan",
     "name": "The Drow Race Continued",
     "steamId": null,
@@ -844,6 +874,12 @@
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JI_Won",
