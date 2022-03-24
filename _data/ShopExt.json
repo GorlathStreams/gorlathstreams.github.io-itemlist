@@ -2818,10 +2818,10 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 8000,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -4596,7 +4596,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -4665,11 +4665,11 @@
         ]
       },
       "defName": "TM_Bard",
-      "name": "entertainer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "name": "bard",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 11000,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -5028,7 +5028,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -5097,9 +5097,9 @@
         ]
       },
       "defName": "TM_Bard",
-      "name": "bard",
-      "canAdd": true,
-      "canRemove": true,
+      "name": "masterbard",
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 11000,
       "removePrice": 2000,
       "degree": 3
@@ -8223,7 +8223,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -8297,11 +8297,11 @@
         ]
       },
       "defName": "Ranger",
-      "name": "woodsman",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "name": "ranger",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 8000,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -8454,8 +8454,8 @@
       "name": "hunter",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 8000,
+      "removePrice": 2000,
       "degree": 1
     },
     {
@@ -8685,7 +8685,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -8759,9 +8759,9 @@
         ]
       },
       "defName": "Ranger",
-      "name": "ranger",
-      "canAdd": true,
-      "canRemove": true,
+      "name": "masterranger",
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 8000,
       "removePrice": 2000,
       "degree": 3
@@ -13403,6 +13403,49 @@
       "enabled": true,
       "name": "Kurin",
       "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+39.00 Mass",
+          "+70% Flammability",
+          "+120% Melee dodge chance",
+          "+80% Melee critical chance",
+          "+60% Melee parry chance",
+          "+75% Psychic sensitivity",
+          "+75% Toxic sensitivity",
+          "+10.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+$1250 Market value",
+          "+4.50 Move speed",
+          "+75 Carrying capacity",
+          "+110% Global learning factor",
+          "+80% Research speed",
+          "+130% Mining speed",
+          "+125% Mining yield",
+          "+75.00% Social impact",
+          "+105% Plant work speed",
+          "+105% Plant harvest yield",
+          "+75% Construction speed",
+          "+20% Trap spring chance",
+          "+110% Hunting stealth",
+          "+90% Animal gather speed",
+          "+1 Honor value",
+          "+0.18 Armor - Sharp",
+          "+115% Suppressability",
+          "+70% Smoke sensitivity",
+          "+25 Bulk capacity"
+        ],
+        "mod": "Cutebold Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.",
+      "defName": "Alien_Cutebold",
+      "enabled": true,
+      "name": "Cutebold",
+      "price": 2083
     }
   ]
 }
