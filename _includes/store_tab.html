@@ -12,7 +12,6 @@
     {%- include search.html id=id type=type placeholder=placeholder -%}
     {%- if include.type == 'Pawn' -%}
         NOTE: You will need to !fixmypawn after buying a Kurin, Destrier, or Uniponen colonist.
-        Check Info tab in top-right for more details on each race.
     {%- endif -%}
     {%- include content.html
         type=type
@@ -21,4 +20,7 @@
         priceDataHeaders=priceDataHeaders
         priceHeaders=priceHeaders
         displayData=displayData -%}
+    {%- if include.type == 'Pawn' -%}
+        End of text test
+    {%- endif -%}
 </div>
