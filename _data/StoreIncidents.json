@@ -91,11 +91,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 1080,
 		"karmatype": "Good"
@@ -159,11 +154,6 @@
 		"abr": "alphabeavers",
 		"price": 540,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -291,5 +281,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 58
+	"total": 56
 }
