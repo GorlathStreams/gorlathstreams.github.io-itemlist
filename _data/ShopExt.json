@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -8143,7 +8143,7 @@
         ]
       },
       "defName": "Gladiator",
-      "name": "gladiator-rwom",
+      "name": "rwom-gladiator",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 9500,
@@ -9562,7 +9562,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -9631,7 +9631,7 @@
         ]
       },
       "defName": "Bladedancer",
-      "name": "blademaster",
+      "name": "bladedancert3",
       "canAdd": false,
       "canRemove": false,
       "addPrice": 3500,
@@ -11007,7 +11007,7 @@
         ]
       },
       "defName": "VTE_Brave",
-      "name": "brave-fortitude",
+      "name": "vte-brave",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12822,7 +12822,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "The Drow Race Continued",
         "karmaTypeForAdding": null,
@@ -12837,7 +12837,7 @@
         ]
       },
       "defName": "BrawlerDrow",
-      "name": "gladiator",
+      "name": "vte-gladiator",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12885,7 +12885,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Combat Extended",
         "karmaTypeForAdding": null,
@@ -12897,7 +12897,7 @@
         ]
       },
       "defName": "Bravery",
-      "name": "brave",
+      "name": "ce-brave",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -13324,8 +13324,7 @@
           "+120% Suppressability",
           "+60% Smoke sensitivity",
           "+0 Armor - Sharp",
-          "+0 Armor - Blunt",
-          "+0 Body part RHA"
+          "+0 Armor - Blunt"
         ],
         "mod": "Fantasy Goblins Updated",
         "karmaType": null,
