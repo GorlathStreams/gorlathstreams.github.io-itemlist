@@ -4247,7 +4247,7 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
@@ -4572,7 +4572,7 @@
       },
       "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
       "defName": "ReanimatedCorpse",
-      "enabled": true,
+      "enabled": false,
       "name": "reanimated corpse",
       "price": 1
     }
