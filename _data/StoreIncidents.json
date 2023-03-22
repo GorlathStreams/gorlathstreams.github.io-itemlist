@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -129,11 +119,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -296,11 +281,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -436,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 83
 }
