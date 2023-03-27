@@ -3737,6 +3737,28 @@
       },
       "defName": "AG_Beauty",
       "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
     }
   ],
   "races": [
@@ -3876,10 +3898,10 @@
           "+0.8 Melee dodge chance",
           "+105% Melee critical chance",
           "+105% Melee parry chance",
-          "+$3200 Market value",
+          "+$2500 Market value",
           "+4.00 Move speed",
-          "+18.0C Maximum comfortable temperature",
-          "+2.0C Minimum comfortable temperature",
+          "+20.0C Maximum comfortable temperature",
+          "+8.0C Minimum comfortable temperature",
           "+110% Immunity gain speed",
           "+75 Carrying capacity",
           "+80 Meat amount",
@@ -4009,9 +4031,9 @@
         "stats": [
           "+50.00 Mass",
           "+30% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
+          "+1.0 Melee dodge chance",
+          "+120% Melee critical chance",
+          "+100% Melee parry chance",
           "+$3500 Market value",
           "+5.00 Move speed",
           "+40% Mental break threshold",
@@ -4036,8 +4058,8 @@
           "+1.1 Cooking speed",
           "+110% Rest rate multiplier",
           "+80% Plant work speed",
-          "+0.13 Armor - Sharp",
-          "+1 Armor - Blunt"
+          "+110% Suppressability",
+          "+140% Smoke sensitivity"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4123,7 +4145,7 @@
       },
       "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin subject",
       "price": 3333
     }

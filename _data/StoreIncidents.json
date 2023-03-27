@@ -296,16 +296,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -406,15 +396,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 80
 }

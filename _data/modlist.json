@@ -48,16 +48,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Gouda quiche",
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
-  },
-  {
-    "author": "Solid E. Wires",
-    "name": "Pawnkind Race Diversification (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -120,6 +120,18 @@
     "version": null
   },
   {
+    "author": "OdysseyLotus",
+    "name": "Male Kurin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Via",
+    "name": "Kurin HAR Edition CE Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Gloomylynx Nukafrog",
     "name": "NewRatkinPlus",
     "steamId": null,
@@ -170,6 +182,12 @@
   {
     "author": "sunny",
     "name": "Rabbie The Moonrabbit - English Patch (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gorlath",
+    "name": "Rabbie Addiction Fix",
     "steamId": null,
     "version": null
   },
@@ -240,10 +258,22 @@
     "version": null
   },
   {
+    "author": "Gorlath",
+    "name": "The Zerg! Assault",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Allie and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Gorlath",
+    "name": "Alpha Sanguophages",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "telardo",
@@ -276,16 +306,16 @@
     "version": null
   },
   {
-    "author": "Waether",
-    "name": "Gene Extraction QOL",
-    "steamId": "2882743092",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "doll",
     "name": "Defang Bodytype Genes",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Waether",
+    "name": "Gene Extraction QOL",
+    "steamId": "2882743092",
+    "version": "1.0.0.0"
   },
   {
     "author": "CE Team",
@@ -298,6 +328,18 @@
     "name": "Misc CE Patches",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Splashes",
+    "steamId": "2889330414",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Vapor",
+    "steamId": "2886571275",
+    "version": "1.4"
   },
   {
     "author": "Krkr",
@@ -396,14 +438,14 @@
     "version": "1.0.4"
   },
   {
-    "author": "Owlchemist | Zymex | Dr_Zhivago",
-    "name": "Gloomy Vanilla Overhaul",
+    "author": "Rin",
+    "name": "Decorative Clutter",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Rin",
-    "name": "Decorative Clutter",
+    "author": "Gorlath",
+    "name": "Decorative Clutter Category Merge",
     "steamId": null,
     "version": null
   },
@@ -450,9 +492,9 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
+    "author": "Velc",
+    "name": "Hats Display Selection",
+    "steamId": "1542291825",
     "version": "1.0.0.0"
   },
   {
@@ -471,7 +513,7 @@
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "2.0.8477.18063"
+    "version": "2.0.8479.28013"
   },
   {
     "author": "SpaceMoth",
@@ -636,6 +678,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
@@ -696,12 +750,6 @@
     "version": "1.2.3.0"
   },
   {
-    "author": "Imperial Commander Zander and aka Endermaster567",
-    "name": "Red Alert!",
-    "steamId": "2897048164",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Raug",
     "name": "Realistic Trade",
     "steamId": "2945931715",
@@ -748,6 +796,12 @@
     "name": "Deep Storage Plus (Continued)",
     "steamId": "2589072911",
     "version": "1.4.1"
+  },
+  {
+    "author": "Aidan",
+    "name": "Self Lit Hydroponics",
+    "steamId": "2152790833",
+    "version": "1.0.8329.36789"
   },
   {
     "author": "XandrMoro",
@@ -852,6 +906,12 @@
     "version": null
   },
   {
+    "author": "darkmiz",
+    "name": "Kurin HAR Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Aelflead Wayne",
     "name": "Moyo Facial Animation Patch",
     "steamId": null,
@@ -890,12 +950,6 @@
   {
     "author": "Gorlath",
     "name": "FAE-Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jester Romut",
-    "name": "Anime Mech Retexture (WIP)",
     "steamId": null,
     "version": null
   },
@@ -948,6 +1002,24 @@
     "version": "1.0.0"
   },
   {
+    "author": "Jester Romut",
+    "name": "Anime Mech Retexture (WIP)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist | Zymex | Dr_Zhivago",
+    "name": "Gloomy Vanilla Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gorlath",
+    "name": "Gloomy Vanilla Overhaul Fixes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "al9000",
     "name": "Tastier Vanilla Clothes",
     "steamId": null,
@@ -958,18 +1030,6 @@
     "name": "Grimworld: Retextures",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple FX: Vapor",
-    "steamId": "2886571275",
-    "version": "1.4"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple FX: Splashes",
-    "steamId": "2889330414",
-    "version": "1.4"
   },
   {
     "author": "Owlchemist",
