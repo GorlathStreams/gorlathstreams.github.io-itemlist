@@ -2624,49 +2624,49 @@
 	},
 	{
 		"abr": "chalice",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertCup"
 	},
 	{
 		"abr": "pendant",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertPendant"
 	},
 	{
 		"abr": "box",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertBox"
 	},
 	{
 		"abr": "tablet",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertTablet"
 	},
 	{
 		"abr": "fragment",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertFragment"
 	},
 	{
 		"abr": "hilt",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertSwordHandle"
 	},
 	{
 		"abr": "ark",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertArk"
 	},
 	{
 		"abr": "cube",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertCube"
 	},
@@ -4100,7 +4100,7 @@
 	},
 	{
 		"abr": "fountain",
-		"price": 52,
+		"price": 60,
 		"category": "Hygiene",
 		"defname": "Fountain"
 	},
@@ -4142,7 +4142,7 @@
 	},
 	{
 		"abr": "simpleshower",
-		"price": 52,
+		"price": 60,
 		"category": "Hygiene",
 		"defname": "ShowerSimple"
 	},
@@ -8600,7 +8600,7 @@
 	},
 	{
 		"abr": "bloodtorch",
-		"price": 41,
+		"price": 60,
 		"category": "Misc",
 		"defname": "SanguphageMeetingTorch"
 	},
@@ -11198,13 +11198,13 @@
 	},
 	{
 		"abr": "mutantarm",
-		"price": 167,
+		"price": 5375,
 		"category": "Teratogenic parts",
 		"defname": "AA_MutantArm"
 	},
 	{
 		"abr": "mutanteye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_MutantEye"
 	},
@@ -11216,7 +11216,7 @@
 	},
 	{
 		"abr": "mutantleg",
-		"price": 167,
+		"price": 5375,
 		"category": "Teratogenic parts",
 		"defname": "AA_MutantLeg"
 	},
@@ -13064,43 +13064,43 @@
 	},
 	{
 		"abr": "theheuristiceye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheHeuristicEye"
 	},
 	{
 		"abr": "themeretriciouseye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheMeretriciousEye"
 	},
 	{
 		"abr": "thenumbingeye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheNumbingEye"
 	},
 	{
 		"abr": "theomniscienteye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheOmniscientEye"
 	},
 	{
 		"abr": "thequiescenteye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheQuiescentEye"
 	},
 	{
 		"abr": "therecalcitranteye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheRecalcitrantEye"
 	},
 	{
 		"abr": "thespasmodiceye",
-		"price": 167,
+		"price": 4417,
 		"category": "Teratogenic parts",
 		"defname": "AA_TheSpasmodicEye"
 	},

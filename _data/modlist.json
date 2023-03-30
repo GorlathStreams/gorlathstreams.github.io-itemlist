@@ -259,7 +259,7 @@
   },
   {
     "author": "Gorlath",
-    "name": "The Zerg! Assault",
+    "name": "The Zerg! Faction",
     "steamId": null,
     "version": null
   },
@@ -324,8 +324,8 @@
     "version": "1.4.5.1"
   },
   {
-    "author": "Gorlath and Some guy on CE discord",
-    "name": "Misc CE Patches",
+    "author": "Gorlath and Various folks on CE discord",
+    "name": "Misc Combat Extended Patches",
     "steamId": null,
     "version": null
   },
@@ -1058,6 +1058,12 @@
   {
     "author": "Peppsen",
     "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gorlath",
+    "name": "Twitch Toolkit Patches",
     "steamId": null,
     "version": null
   },
