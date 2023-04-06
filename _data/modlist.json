@@ -204,6 +204,12 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "cedaro",
+    "name": "Choice Of First Psycaster Path",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kikohi and Oskar Potocki",
     "name": "Vanilla Base Generation Expanded",
     "steamId": null,
@@ -618,6 +624,12 @@
     "version": "4.7.272"
   },
   {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
     "author": "flangopink",
     "name": "Custom Guilt Duration",
     "steamId": "2865127870",
@@ -777,7 +789,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Mlie",
@@ -998,6 +1010,12 @@
   {
     "author": "Tidal",
     "name": "More Vanilla Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CopperMonster",
+    "name": "[CM] Ideology DLC Texture Upscale",
     "steamId": null,
     "version": null
   },
