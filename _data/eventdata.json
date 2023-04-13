@@ -18,73 +18,73 @@
   "clearweather": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "rain": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "vomitrain": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "foggyrain": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "rainythunderstorm": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "drythunderstorm": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "snowgentle": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "snowhard": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "fog": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "heatwave": {
@@ -98,9 +98,9 @@
   "flashstorm": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "coldsnap": {
@@ -170,9 +170,9 @@
   "animaltame": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "wandererjoins": {
@@ -188,7 +188,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "Twitch Toolkit"
   },
   "tradercaravan": {
@@ -210,9 +210,9 @@
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -276,7 +276,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "rarethrumbos": {
@@ -290,33 +290,33 @@
   "shipchunkdrop": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "Twitch Toolkit"
   },
   "travelergroup": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "visitorgroup": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "skillincrease": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "Twitch Toolkit"
   },
   "party": {
@@ -474,9 +474,9 @@
   "removetrait": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "Twitch Toolkit"
   },
   "genderswap": {
@@ -506,9 +506,9 @@
   "visitcolony": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "randominspire": {
@@ -578,32 +578,32 @@
   "surgery": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "passionshuffle": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "replacetrait": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "rescueme": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
@@ -618,33 +618,33 @@
   "passion": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "ToolkitUtils"
   },
   "removepassion": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "backpack": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "ToolkitUtils"
   },
   "settraits": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "cleartraits": {
@@ -658,41 +658,41 @@
   "use": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "ToolkitUtils"
   },
   "wear": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "equip": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "randomchildhood": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "randomadulthood": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "ToolkitUtils"
   },
   "smite": {

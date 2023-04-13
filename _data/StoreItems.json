@@ -176,7 +176,7 @@
 	},
 	{
 		"abr": "armchair",
-		"price": 450,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Armchair"
 	},
@@ -8528,13 +8528,13 @@
 	},
 	{
 		"abr": "blackscarab",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_BlackScarab"
 	},
 	{
 		"abr": "blackspelopede",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_BlackSpelopede"
 	},
@@ -8552,7 +8552,7 @@
 	},
 	{
 		"abr": "blackspider",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_BlackSpider"
 	},
@@ -9692,7 +9692,7 @@
 	},
 	{
 		"abr": "fungalhusk",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_FungalHusk"
 	},
@@ -10916,7 +10916,7 @@
 	},
 	{
 		"abr": "mime",
-		"price": 1667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_Mime"
 	},
