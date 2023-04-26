@@ -48,6 +48,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "YukiAiko",
+    "name": "No HAR Hairs on Humans",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Alias",
     "name": "De-generalize Work",
     "steamId": null,
@@ -60,28 +66,22 @@
     "version": "1.0.8331.27653"
   },
   {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Demi, 어리연, Nemonian and gguake",
+    "name": "Paniel the Automata",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "ChJees",
-    "name": "Androids for RW 1.4",
-    "steamId": "2889326293",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "いのしし_3",
-    "name": "[Androids] - Upscaled",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dekeche",
-    "name": "Android Conversion for RW 1.4",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Nemonian",
@@ -122,6 +122,12 @@
   {
     "author": "Via",
     "name": "Kurin HAR Edition CE Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Via",
+    "name": "Kurin HAR Edition CE Fixes",
     "steamId": null,
     "version": null
   },
@@ -180,6 +186,12 @@
     "version": null
   },
   {
+    "author": "OdysseyLotus",
+    "name": "Male Rabbie",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Gorlath",
     "name": "Rabbie Addiction Fix",
     "steamId": null,
@@ -228,6 +240,12 @@
     "version": null
   },
   {
+    "author": "Gorlath",
+    "name": "Warcaskets - Adeptus Astartes Tech Level Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Уверен?",
     "name": "Royal Warcaskets",
     "steamId": null,
@@ -271,7 +289,7 @@
   },
   {
     "author": "Gorlath",
-    "name": "Alpha Sanguophages",
+    "name": "Alpha Sanguophages 2.0",
     "steamId": null,
     "version": null
   },
@@ -330,6 +348,18 @@
     "version": null
   },
   {
+    "author": "空曜",
+    "name": "Aerocraft Framework",
+    "steamId": "2959802157",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "Ratkin Vehicles+",
+    "steamId": "2959924062",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Simple FX: Splashes",
     "steamId": "2889330414",
@@ -346,6 +376,12 @@
     "name": "CAI 5000 - Advanced AI + Fog Of War",
     "steamId": "2938891185",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Clean Pathfinding 2",
+    "steamId": "2603765747",
+    "version": "1.4"
   },
   {
     "author": "rooki1",
@@ -492,18 +528,6 @@
     "version": null
   },
   {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Pyrce",
-    "name": "Dire Raids",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "All Memories Fade",
     "steamId": "2800155563",
@@ -622,6 +646,12 @@
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
   },
   {
     "author": "flangopink",
@@ -762,6 +792,12 @@
     "version": "1.2.3.0"
   },
   {
+    "author": "Alleykat",
+    "name": "Persistent Precepts",
+    "steamId": "2944765939",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Raug",
     "name": "Realistic Trade",
     "steamId": "2945931715",
@@ -784,12 +820,6 @@
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
     "version": "1.4.2"
-  },
-  {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -822,6 +852,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "Fireworks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Vex",
     "name": "Consciousness Patch",
     "steamId": "2913127696",
@@ -832,6 +874,12 @@
     "name": "Show Known Techprints",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
@@ -882,12 +930,6 @@
     "version": null
   },
   {
-    "author": "Elseud",
-    "name": "Cosmic Horrors Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Odeum",
     "name": "World Map Beautification Project",
     "steamId": "2314407956",
@@ -912,6 +954,18 @@
     "version": null
   },
   {
+    "author": "Feng Xinzi",
+    "name": "Hyacinth's Anty Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "塔洛斯",
+    "name": "Paniel Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hourai_haikus",
     "name": "Rabbie Facial Animation",
     "steamId": null,
@@ -926,12 +980,6 @@
   {
     "author": "Aelflead Wayne",
     "name": "Moyo Facial Animation Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RutraNickers",
-    "name": "Facial Animation Androids Patch",
     "steamId": null,
     "version": null
   },
@@ -974,6 +1022,12 @@
   {
     "author": "iFlash",
     "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fernando_Balderama",
+    "name": "[FB] Ameiro anime hairs",
     "steamId": null,
     "version": null
   },
@@ -1074,12 +1128,6 @@
     "version": null
   },
   {
-    "author": "Gorlath",
-    "name": "Twitch Toolkit Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1096,6 +1144,12 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.b6"
+  },
+  {
+    "author": "Gorlath",
+    "name": "Twitch Toolkit Patches",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Epicguru (James B)",
