@@ -420,6 +420,12 @@
     "version": null
   },
   {
+    "author": "AobaKuma",
+    "name": "Demi-human Slavery",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nepenthe",
     "name": "Child Sized Armor",
     "steamId": null,
@@ -588,6 +594,12 @@
     "version": null
   },
   {
+    "author": "NightmareCorporation",
+    "name": "Sandstorms",
+    "steamId": "2967158643",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "MarvinKosh",
     "name": "Snow Clearance Sanity (Continued)",
     "steamId": "2314284273",
@@ -708,6 +720,12 @@
     "version": "0.2.1"
   },
   {
+    "author": "Densevoid",
+    "name": "Personal Work Categories",
+    "steamId": "2722053051",
+    "version": "1.5"
+  },
+  {
     "author": "DimonSever000",
     "name": "Backstory Constructor",
     "steamId": "2907131508",
@@ -784,6 +802,18 @@
     "name": "More Persona Traits",
     "steamId": "2863308112",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Jel",
+    "name": "Lifter Can do Nuclear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jdalt",
+    "name": "Growth Speed Makes Sense Now",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "telardo",
@@ -1064,6 +1094,12 @@
   {
     "author": "CopperMonster",
     "name": "[CM] Ideology DLC Texture Upscale",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Gallatross and Friends Retextured",
     "steamId": null,
     "version": null
   },
