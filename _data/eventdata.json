@@ -601,7 +601,7 @@
   },
   "rescueme": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 600,
     "LocalCooldown": 0,

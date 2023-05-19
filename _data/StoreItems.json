@@ -176,7 +176,7 @@
 	},
 	{
 		"abr": "armchair",
-		"price": 450,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Armchair"
 	},
@@ -560,7 +560,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 5000,
 		"category": "Misc",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -7874,13 +7874,13 @@
 	},
 	{
 		"abr": "blackscarab",
-		"price": -10,
+		"price": 250,
 		"category": "Animals",
 		"defname": "AA_BlackScarab"
 	},
 	{
 		"abr": "blackspelopede",
-		"price": -10,
+		"price": 417,
 		"category": "Animals",
 		"defname": "AA_BlackSpelopede"
 	},
@@ -7898,7 +7898,7 @@
 	},
 	{
 		"abr": "blackspider",
-		"price": -10,
+		"price": 917,
 		"category": "Animals",
 		"defname": "AA_BlackSpider"
 	},
@@ -9349,24 +9349,6 @@
 		"defname": "CE_Apparel_ImprovGasMask"
 	},
 	{
-		"abr": "indoorautomatedcamera",
-		"price": 140,
-		"category": "Security",
-		"defname": "CombatAI_IndoorCCTV"
-	},
-	{
-		"abr": "industrialcameraonpolemount",
-		"price": 261,
-		"category": "Security",
-		"defname": "CombatAI_IndustrialPoleCCTV"
-	},
-	{
-		"abr": "industrialwallmountedcctv",
-		"price": 658,
-		"category": "Security",
-		"defname": "CombatAI_CCTVTurretIndustrial"
-	},
-	{
 		"abr": "infectedaerofleet",
 		"price": 300,
 		"category": "Animals",
@@ -10070,13 +10052,13 @@
 	},
 	{
 		"abr": "mammothwormegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_MammothWormEggFertilized"
 	},
 	{
 		"abr": "mammothwormegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_MammothWormEggUnfertilized"
 	},
@@ -10721,12 +10703,6 @@
 		"price": 27,
 		"category": "Furniture",
 		"defname": "NewspapersB"
-	},
-	{
-		"abr": "parrotinthecage",
-		"price": 164,
-		"category": "Security",
-		"defname": "CombatAI_TribalPoleCCTV"
 	},
 	{
 		"abr": "pebblemit",
@@ -12137,18 +12113,6 @@
 		"price": 102,
 		"category": "Furniture",
 		"defname": "ShelfSmall"
-	},
-	{
-		"abr": "spacercameraonpolemount",
-		"price": 658,
-		"category": "Security",
-		"defname": "CombatAI_SpacerPoleCCTV"
-	},
-	{
-		"abr": "spacerwallmountedcctv",
-		"price": 833,
-		"category": "Security",
-		"defname": "CombatAI_CCTVTurretSpacer"
 	},
 	{
 		"abr": "spiderfish",
@@ -13982,7 +13946,7 @@
 	},
 	{
 		"abr": "dreadnoughtcocoon",
-		"price": 867,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "AT_EggDreadnought"
 	},
@@ -14084,103 +14048,103 @@
 	},
 	{
 		"abr": "fleshcraftedarm",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedArm"
 	},
 	{
 		"abr": "fleshcraftedear",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedEar"
 	},
 	{
 		"abr": "fleshcraftedeye",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedEye"
 	},
 	{
 		"abr": "fleshcraftedfinger",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedFinger"
 	},
 	{
 		"abr": "fleshcraftedfoot",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedFoot"
 	},
 	{
 		"abr": "fleshcraftedhand",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedHand"
 	},
 	{
 		"abr": "fleshcraftedheart",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedHeart"
 	},
 	{
 		"abr": "fleshcraftedjaw",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedJaw"
 	},
 	{
 		"abr": "fleshcraftedkidney",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedKidney"
 	},
 	{
 		"abr": "fleshcraftedleg",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedLeg"
 	},
 	{
 		"abr": "fleshcraftedliver",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedLiver"
 	},
 	{
 		"abr": "fleshcraftedlung",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedLung"
 	},
 	{
 		"abr": "fleshcraftednose",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedNose"
 	},
 	{
 		"abr": "fleshcraftedspine",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedSpine"
 	},
 	{
 		"abr": "fleshcraftedstomach",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedStomach"
 	},
 	{
 		"abr": "fleshcraftedtoe",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedToe"
 	},
 	{
 		"abr": "fleshcraftedtongue",
-		"price": 75,
+		"price": -10,
 		"category": "Natural",
 		"defname": "VME_FleshcraftedTongue"
 	},
@@ -14246,7 +14210,7 @@
 	},
 	{
 		"abr": "hiveguardcocoon",
-		"price": 867,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "AT_EggHiveguard"
 	},
@@ -14432,37 +14396,37 @@
 	},
 	{
 		"abr": "pnlautomaton™(combat)",
-		"price": 5025,
+		"price": -10,
 		"category": "PnL automaton™",
 		"defname": "Packaged_NormalAutomatonSoldier"
 	},
 	{
 		"abr": "pnlautomaton™(domestic)",
-		"price": 5025,
+		"price": -10,
 		"category": "PnL automaton™",
 		"defname": "Packaged_NormalAutomatonMaid"
 	},
 	{
 		"abr": "pnlautomaton™(engineer)",
-		"price": 5025,
+		"price": -10,
 		"category": "PnL automaton™",
 		"defname": "Packaged_NormalAutomatonWorker"
 	},
 	{
 		"abr": "pnlautomaton™pro(combat)",
-		"price": 13375,
+		"price": -10,
 		"category": "PnL automaton™",
 		"defname": "Packaged_PremiumAutomatonSoldier"
 	},
 	{
 		"abr": "pnlautomaton™pro(domestic)",
-		"price": 13375,
+		"price": -10,
 		"category": "PnL automaton™",
 		"defname": "Packaged_PremiumAutomatonMaid"
 	},
 	{
 		"abr": "pnlautomaton™pro(engineer)",
-		"price": 13375,
+		"price": -10,
 		"category": "PnL automaton™",
 		"defname": "Packaged_PremiumAutomatonWorker"
 	},
@@ -15277,6 +15241,24 @@
 		"defname": "Slave_Kurin_Fetters"
 	},
 	{
+		"abr": "indoorautomatedcamera",
+		"price": 140,
+		"category": "Security",
+		"defname": "CombatAI_IndoorCCTV"
+	},
+	{
+		"abr": "industrialcameraonpolemount",
+		"price": 261,
+		"category": "Security",
+		"defname": "CombatAI_IndustrialPoleCCTV"
+	},
+	{
+		"abr": "industrialwallmountedcctv",
+		"price": 658,
+		"category": "Security",
+		"defname": "CombatAI_CCTVTurretIndustrial"
+	},
+	{
 		"abr": "kurinslaverobe",
 		"price": 95,
 		"category": "Kurin slavery apparel",
@@ -15287,6 +15269,12 @@
 		"price": 842,
 		"category": "Demi-Races slave apparel",
 		"defname": "Slave_Moyo_Strip"
+	},
+	{
+		"abr": "parrotinthecage",
+		"price": 164,
+		"category": "Security",
+		"defname": "CombatAI_TribalPoleCCTV"
 	},
 	{
 		"abr": "ratkinslavecollar",
@@ -15306,6 +15294,24 @@
 		"category": "Demi-Races slave apparel",
 		"defname": "DS_Slave_Collar"
 	},
+	{
+		"abr": "slavefetters",
+		"price": 170,
+		"category": "Demi-Races slave apparel",
+		"defname": "DS_Slave_Fetters"
+	},
+	{
+		"abr": "spacercameraonpolemount",
+		"price": 658,
+		"category": "Security",
+		"defname": "CombatAI_SpacerPoleCCTV"
+	},
+	{
+		"abr": "spacerwallmountedcctv",
+		"price": 833,
+		"category": "Security",
+		"defname": "CombatAI_CCTVTurretSpacer"
+	}
 	],
 	"total": 2552
 }

@@ -301,11 +301,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rescueme",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Neutral"
@@ -356,5 +351,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 71
+	"total": 70
 }
