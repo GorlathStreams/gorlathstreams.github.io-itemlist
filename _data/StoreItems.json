@@ -15311,7 +15311,43 @@
 		"price": 833,
 		"category": "Security",
 		"defname": "CombatAI_CCTVTurretSpacer"
+	},
+	{
+		"abr": "heartacidifier",
+		"price": 525,
+		"category": "Prosthetic",
+		"defname": "UsefulTerror_HeartAcidifier"
+	},
+	{
+		"abr": "doublewiderefrigerator",
+		"price": 467,
+		"category": "Furniture",
+		"defname": "owl_doublerefrigerator"
+	},
+	{
+		"abr": "fencepostchemlamp",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Owl_Fencepost_Chemlamp"
+	},
+	{
+		"abr": "fencepostlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "Owl_Fencepost_Lamp"
+	},
+	{
+		"abr": "refrigerator",
+		"price": 242,
+		"category": "Furniture",
+		"defname": "owl_refrigerator"
+	},
+	{
+		"abr": "walllight",
+		"price": 40,
+		"category": "Furniture",
+		"defname": "Owl_WallLight"
 	}
 	],
-	"total": 2552
+	"total": 2558
 }

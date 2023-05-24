@@ -66,10 +66,10 @@
     "version": "1.0.8331.27653"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Demi, 어리연, Nemonian and gguake",
@@ -78,10 +78,10 @@
     "version": null
   },
   {
-    "author": "Roo",
-    "name": "Anty the war ant race",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "Nemonian",
@@ -202,6 +202,12 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
@@ -469,9 +475,21 @@
   },
   {
     "author": "Vesper",
-    "name": "HologramsAndProjectors",
+    "name": "Holograms And Projectors",
     "steamId": "2847321165",
     "version": "1.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Wall",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "1.4"
   },
   {
     "author": "GloomyLynx NukaFrog",
@@ -702,6 +720,54 @@
     "version": null
   },
   {
+    "author": "Fuu Chan",
+    "name": "[Fuu] Useful Terror",
+    "steamId": "2636462610",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Almost There!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Consistent Gene Inheritance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Disable Automatically Select Travel Supplies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AncientGammoner",
+    "name": "Ground Targeter",
+    "steamId": "2356822769",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "2661792499",
+    "version": "1.4"
+  },
+  {
+    "author": "Liebasam",
+    "name": "We Had a Trader? (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Shenanigans",
     "name": "Tech Tattoos",
     "steamId": null,
@@ -924,12 +990,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Garethp",
-    "name": "Replace Stuff Mod Compatibility",
-    "steamId": "2642161586",
-    "version": "2.0.1"
-  },
-  {
     "author": "Owlchemist",
     "name": "Perspective: Buildings",
     "steamId": null,
@@ -968,6 +1028,12 @@
   {
     "author": "Carolusclen",
     "name": "World Map Beautification Project - for Alpha Biomes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gorlath",
+    "name": "Facial Wound Hider",
     "steamId": null,
     "version": null
   },
@@ -1108,6 +1174,24 @@
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
     "version": "1.0.0"
+  },
+  {
+    "author": "bradson and harkon",
+    "name": "Bradson's Main Button Icons for VE Textures",
+    "steamId": "2361775777",
+    "version": "1.0.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Proxyer",
+    "name": "Optional Icons for Architect Icons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jester Romut",
