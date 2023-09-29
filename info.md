@@ -103,7 +103,7 @@ chat a bit. So, if you're logged into Puppeeter and you're wondering why the bot
 you should check the `TT` tab on the website first.
 {%- endif -%}
 
-
+<br/>
 ## Da Rulez
 
 This is a list of a few rules that Gorlath is playing with for this modpack.
