@@ -11,6 +11,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -48,7 +53,7 @@
 	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
@@ -83,7 +88,7 @@
 	{
 		"abr": "aurora",
 		"price": 200,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
@@ -93,7 +98,7 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -138,7 +143,7 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "farmanimals",
@@ -153,7 +158,7 @@
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shipchunkdrop",
@@ -168,12 +173,12 @@
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
@@ -196,11 +201,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -208,7 +208,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -251,11 +251,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -269,11 +264,6 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -303,17 +293,12 @@
 	{
 		"abr": "passion",
 		"price": 7000,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
 		"price": 5000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "settraits",
@@ -339,17 +324,7 @@
 		"abr": "equip",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 70
+	"total": 65
 }

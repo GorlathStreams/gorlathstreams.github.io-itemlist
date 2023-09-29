@@ -4,7 +4,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [],
@@ -23,10 +23,10 @@
       "name": "nudist"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others. Furthermore unlike others he is able to gain bloodlust focus inspirations.",
       "stats": [
@@ -41,9 +41,9 @@
         ],
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Bloodlust",
       "name": "bloodlust"
@@ -52,7 +52,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
@@ -81,10 +81,10 @@
       "name": "kind"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
@@ -101,18 +101,18 @@
         ],
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Psychopath",
       "name": "psychopath"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [
@@ -127,9 +127,9 @@
         ],
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Cannibal",
       "name": "cannibal"
@@ -138,7 +138,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
@@ -155,9 +155,9 @@
         ],
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Abrasive",
       "name": "abrasive"
@@ -166,7 +166,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
@@ -208,16 +208,14 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance",
-        "+25% melee critical chance",
-        "+25% melee parry chance"
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -235,9 +233,7 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance",
-          "+25% melee critical chance",
-          "+25% melee parry chance"
+          "+4.0 melee hit chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -252,7 +248,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
@@ -282,7 +278,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [],
@@ -304,7 +300,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
       "stats": [
@@ -338,7 +334,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
@@ -376,7 +372,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
@@ -425,9 +421,9 @@
         "stats": [],
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Gay",
       "name": "gay"
@@ -447,9 +443,9 @@
         "stats": [],
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Bisexual",
       "name": "bisexual"
@@ -469,9 +465,9 @@
         "stats": [],
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Asexual",
       "name": "asexual"
@@ -480,7 +476,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [
@@ -508,7 +504,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [],
@@ -530,7 +526,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low. Furthermore unlike others he is able to gain pyromania focus inspirations.",
       "stats": [
@@ -560,12 +556,12 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
         "+3 medical",
-        "-60% pain shock threshold",
+        "-50% pain shock threshold",
         "x200% global certainty loss factor",
         "x120% move speed"
       ],
@@ -581,7 +577,7 @@
         ],
         "stats": [
           "+3 medical",
-          "-60% pain shock threshold",
+          "-50% pain shock threshold",
           "x200% global certainty loss factor",
           "x120% move speed"
         ],
@@ -598,11 +594,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+50% melee dodge chance",
+        "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -610,7 +606,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "+50% melee dodge chance",
+          "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ],
         "canBypassLimit": false,
@@ -626,7 +622,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
@@ -652,7 +648,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
@@ -685,10 +681,10 @@
       "name": "slowlearner"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [
@@ -714,7 +710,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced with artificial body parts or xenogenetics.",
       "stats": [],
@@ -737,10 +733,10 @@
       "name": "bodymodder"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
       "stats": [],
@@ -766,7 +762,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy really dislikes and distrusts men.",
       "stats": [],
@@ -788,7 +784,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy really dislikes and distrusts women.",
       "stats": [],
@@ -810,7 +806,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [],
@@ -829,10 +825,10 @@
       "name": "greatmemory"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
@@ -847,9 +843,9 @@
         ],
         "canBypassLimit": false,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Neutral",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Neutral"
       },
       "defName": "Tough",
       "name": "tough"
@@ -858,7 +854,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to gain either a creativity or artistry inspiration after a mental break. Furthermore unlike others he also can gain artistry inspirations when inspired by high mood.",
       "stats": [
@@ -898,7 +894,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
@@ -932,7 +928,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
@@ -958,7 +954,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy is always falling behind the group whenever he goes anywhere.",
       "stats": [
@@ -986,7 +982,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy likes to be where he's going. he walks quicker than most people.",
       "stats": [
@@ -1012,7 +1008,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
@@ -1038,7 +1034,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
@@ -1066,7 +1062,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
@@ -1094,7 +1090,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
       "stats": [
@@ -1122,7 +1118,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [],
@@ -1144,7 +1140,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [],
@@ -1166,7 +1162,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [
@@ -1196,7 +1192,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [
@@ -1226,7 +1222,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
@@ -1254,7 +1250,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
@@ -1282,7 +1278,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy tends to crack under pressure.",
       "stats": [
@@ -1314,7 +1310,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
@@ -1346,7 +1342,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
       "stats": [
@@ -1374,7 +1370,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
@@ -1402,7 +1398,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
@@ -1428,7 +1424,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
@@ -1454,7 +1450,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy is a little bit lazy.",
       "stats": [
@@ -1482,7 +1478,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
@@ -1510,7 +1506,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
       "stats": [
@@ -1536,7 +1532,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
       "stats": [
@@ -1562,7 +1558,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
       "stats": [
@@ -1588,7 +1584,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
       "stats": [
@@ -1614,13 +1610,12 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "x133% weapon handling",
-        "x125% aiming accuracy"
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -1632,8 +1627,7 @@
         ],
         "stats": [
           "+25% aiming time",
-          "x133% weapon handling",
-          "x125% aiming accuracy"
+          "+5.0 shooting accuracy"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1648,12 +1642,12 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
-        "-25% aiming time",
-        "x75% weapon handling"
+        "-50% aiming time",
+        "-5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -1664,8 +1658,8 @@
           "brawler"
         ],
         "stats": [
-          "-25% aiming time",
-          "x75% weapon handling"
+          "-50% aiming time",
+          "-5.0 shooting accuracy"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1680,7 +1674,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
       "stats": [
@@ -1706,7 +1700,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has a pretty face, which predisposes people to like him.",
       "stats": [
@@ -1732,7 +1726,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
@@ -1762,7 +1756,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -2,
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
@@ -1794,7 +1788,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
@@ -1820,7 +1814,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
@@ -1846,7 +1840,81 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows.",
+      "stats": [
+        "x115% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Biotech",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Delicate",
+      "name": "delicate"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Biotech",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Recluse",
+      "name": "recluse"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy just doesn't give a shit what others think. he is unaffected by slights and insults, but also by kind words.",
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cyanobot's Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Unaffected",
+      "name": "unaffected"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
@@ -1868,7 +1936,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": -1,
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
@@ -1887,126 +1955,34 @@
       "name": "xenophile"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 0,
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": -1,
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
+      "description": "Timmy has Solid exoskeleton, he takes much less damage than other Anties from the same blows.",
       "stats": [
-        "+25% suppressability"
+        "x70% incoming damage multiplier",
+        "x112% leather amount",
+        "x0% flammability"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+25% suppressability"
+          "x70% incoming damage multiplier",
+          "x112% leather amount",
+          "x0% flammability"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "Anty the war ant race",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
-      "name": "cowardly"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 1,
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-50% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": true,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "brave-ce"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 2,
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-100% suppressability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Bravery",
-      "name": "fearless"
+      "defName": "AT_Solidexoskeleton",
+      "name": "solidexoskeleton"
     },
     {
       "canAdd": false,
@@ -2014,7 +1990,349 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
+      "stats": [
+        "Flame meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Flame meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Maru_flameworship",
+      "name": "flameworship"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Any object, event, or technology has cause and effect.\nTimmy is very skilled at identifying and learning such causal relationships.",
+      "stats": [
+        "+25% global learning factor",
+        "+20% sell price multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% global learning factor",
+          "+20% sell price multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Eyetrait",
+      "name": "sharpeye"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's body is naturally flexible.\nStronger and more flexible than others, it has a significant advantage in hunting.",
+      "stats": [
+        "+10.0 melee dodge chance",
+        "+0.20 move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.0 melee dodge chance",
+          "+0.20 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Bodytrait",
+      "name": "flexible"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes that he is right.\nThe firm belief has a positive effect on his will, just like his piety, but he also tends to ignore the opinions of others.",
+      "stats": [
+        "-9% mental break threshold",
+        "+10% global work speed",
+        "+50% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-9% mental break threshold",
+          "+10% global work speed",
+          "+50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Mentaltrait",
+      "name": "self-righteousness"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, he won't be an ordinary person who comes and goes into the world without anyone knowing. /n/nTimmy was born with that gift.",
+      "stats": [
+        "-100% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-100% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Mountaintrait",
+      "name": "leadership"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has ears that are sensitive to even small sounds.\n Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply.",
+      "stats": [
+        "-20% rest rate multiplier",
+        "+8.0 melee dodge chance",
+        "+2.0 melee hit chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-20% rest rate multiplier",
+          "+8.0 melee dodge chance",
+          "+2.0 melee hit chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Eartrait",
+      "name": "sensitiveears"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design.",
+      "stats": [
+        "-16% immunity gain speed",
+        "+15.0 melee dodge chance",
+        "+0.60 move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-16% immunity gain speed",
+          "+15.0 melee dodge chance",
+          "+0.60 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Prototype",
+      "name": "prototype"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+75% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+75% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainA",
+      "name": "inquisitivemind"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-14% mental break threshold",
+        "+40% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-14% mental break threshold",
+          "+40% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainB",
+      "name": "senseofduty"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+150.00% negotiation ability",
+        "+150.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+150.00% negotiation ability",
+          "+150.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainC",
+      "name": "philosophy"
+    },
+    {
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-25% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-25% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainD",
+      "name": "warp"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's faith is firm. It allows him to withstand mentally or physically stressing situations better than most.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faith",
+      "name": "faith"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy really dislikes and distrusts people in general. I mean, who can blame them right?",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2024,17 +2342,17 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
+        "mod": "Unknown",
         "karmaTypeForAdding": null
       },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
+      "defName": "DislikesHumanity",
+      "name": "misanthrope"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [],
@@ -2068,7 +2386,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
       "stats": [
@@ -2098,7 +2416,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
@@ -2124,7 +2442,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [],
@@ -2154,7 +2472,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
       "stats": [
@@ -2176,19 +2494,19 @@
           "+20% pain shock threshold"
         ],
         "canBypassLimit": false,
-        "customName": true,
+        "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
       "defName": "VTE_Brave",
-      "name": "brave-vte"
+      "name": "brave"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
       "stats": [],
@@ -2214,7 +2532,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
@@ -2244,7 +2562,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
@@ -2274,7 +2592,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
@@ -2287,7 +2605,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
+        "karmaTypeForAdding": "Bad"
       },
       "defName": "VTE_HeavySleeper",
       "name": "heavysleeper"
@@ -2296,7 +2614,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
       "stats": [],
@@ -2322,7 +2640,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
       "stats": [],
@@ -2348,7 +2666,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [],
@@ -2382,7 +2700,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
       "stats": [],
@@ -2408,7 +2726,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [],
@@ -2434,7 +2752,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
       "stats": [],
@@ -2462,7 +2780,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
@@ -2484,7 +2802,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
       "stats": [],
@@ -2510,7 +2828,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
       "stats": [],
@@ -2533,10 +2851,10 @@
       "name": "submissive"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
       "stats": [],
@@ -2562,7 +2880,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
       "stats": [
@@ -2592,7 +2910,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
       "stats": [],
@@ -2618,7 +2936,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
       "stats": [
@@ -2656,7 +2974,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
@@ -2678,7 +2996,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
       "stats": [],
@@ -2704,7 +3022,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [],
@@ -2732,7 +3050,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
       "stats": [
@@ -2762,7 +3080,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [],
@@ -2792,7 +3110,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
       "stats": [],
@@ -2820,7 +3138,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
@@ -2842,7 +3160,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
       "stats": [],
@@ -2868,7 +3186,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
       "stats": [],
@@ -2894,7 +3212,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
       "stats": [
@@ -2926,7 +3244,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
       "stats": [
@@ -2958,7 +3276,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
@@ -2980,7 +3298,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
@@ -3002,7 +3320,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
@@ -3028,7 +3346,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
       "stats": [
@@ -3054,7 +3372,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
@@ -3077,10 +3395,10 @@
       "name": "kleptomaniac"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [],
@@ -3109,10 +3427,10 @@
       "name": "stoner"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
       "stats": [],
@@ -3144,7 +3462,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
       "stats": [
@@ -3170,7 +3488,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
@@ -3202,7 +3520,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
@@ -3224,7 +3542,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
       "stats": [],
@@ -3250,7 +3568,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
       "stats": [
@@ -3280,7 +3598,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
       "stats": [
@@ -3310,7 +3628,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
       "stats": [
@@ -3342,7 +3660,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
       "stats": [
@@ -3372,7 +3690,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
       "stats": [
@@ -3404,7 +3722,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
       "stats": [
@@ -3434,7 +3752,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
       "stats": [],
@@ -3460,7 +3778,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
       "stats": [],
@@ -3486,7 +3804,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 7000,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],
@@ -3513,294 +3831,15 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 0,
-      "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows.",
-      "stats": [
-        "x115% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x115% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Biotech",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Delicate",
-      "name": "delicate"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 0,
-      "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Biotech",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Recluse",
-      "name": "recluse"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 0,
-      "description": "Timmy's faith is firm. It allows him to withstand mentally or physically stressing situations better than most.",
-      "stats": [
-        "+10% pain shock threshold",
-        "-15% mental break threshold"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp"
-        ],
-        "stats": [
-          "+10% pain shock threshold",
-          "-15% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faith",
-      "name": "faithful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
-      "stats": [
-        "+3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
-      "stats": [
-        "-3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 7000,
-      "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
-    },
-    {
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has Solid exoskeleton, he takes much less damage than other Anties from the same blows.",
-      "stats": [
-        "x70% incoming damage multiplier",
-        "x112% leather amount",
-        "x0% flammability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x70% incoming damage multiplier",
-          "x112% leather amount",
-          "x0% flammability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anty the war ant race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AT_Solidexoskeleton",
-      "name": "solidexoskeleton"
     }
   ],
   "races": [
     {
       "data": {
-        "customName": true,
+        "customName": false,
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
@@ -3821,38 +3860,317 @@
       "data": {
         "customName": false,
         "stats": [
-          "+75.00 Mass",
-          "+50% Flammability",
-          "+0.8 Melee dodge chance",
-          "+105% Melee critical chance",
-          "+105% Melee parry chance",
-          "+$2500 Market value",
-          "+4.00 Move speed",
-          "+20.0C Maximum comfortable temperature",
-          "+8.0C Minimum comfortable temperature",
+          "+120.00 Mass",
+          "+0% Flammability",
+          "+1000% Global certainty loss factor",
+          "-100.0 Beauty",
+          "+$3000 Market value",
+          "+4.15 Move speed",
+          "+500.0C Maximum comfortable temperature",
+          "-80.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+200% Eating speed",
+          "+40 Carrying capacity",
+          "+20 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+1% Mental break threshold",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+0.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
           "+110% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+80 Meat amount",
-          "+50 Leather amount",
-          "+120% Psychic sensitivity",
-          "+100.00% Social impact",
-          "+85% General labor speed",
-          "+130% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+115% Medical tend quality",
-          "+115% Medical surgery success chance",
-          "+4 Honor value",
-          "+100% Suppressability",
-          "+90% Smoke sensitivity"
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+25.0% Armor - Blunt",
+          "+85.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
-      "defName": "Alien_Moyo",
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Tri-Jaws are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with A powerful red burst laser weapon can be fired at up to 2 people, and can be fired at 1 person while moving.\n\nIf the Tri-Jaws are seen on the battlefront, it means child's play is over.",
+      "defName": "AT_TriJaw",
+      "enabled": false,
+      "name": "Anty Tri-Jaw",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+320.00 Mass",
+          "+0% Flammability",
+          "+1000% Global certainty loss factor",
+          "-100.0 Beauty",
+          "+$3000 Market value",
+          "+4.15 Move speed",
+          "+500.0C Maximum comfortable temperature",
+          "-80.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Eating speed",
+          "+110 Carrying capacity",
+          "+60 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+1% Mental break threshold",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+110% Immunity gain speed",
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+45.0% Armor - Blunt",
+          "+95.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
+      "defName": "AT_dreadnought",
+      "enabled": false,
+      "name": "Anty Dreadnought",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+520.00 Mass",
+          "+0% Flammability",
+          "+1000% Global certainty loss factor",
+          "-100.0 Beauty",
+          "+$3000 Market value",
+          "+2.15 Move speed",
+          "+500.0C Maximum comfortable temperature",
+          "-80.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+200% Eating speed",
+          "+110 Carrying capacity",
+          "+60 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+1% Mental break threshold",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+0.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+110% Immunity gain speed",
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+45.0% Armor - Blunt",
+          "+125.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
+      "defName": "AT_Hiveguard",
+      "enabled": false,
+      "name": "Anty Hive guard",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+95.00 Mass",
+          "+200% Flammability",
+          "+1000% Global certainty loss factor",
+          "+100% Lifespan factor",
+          "-100.0 Beauty",
+          "+$8000 Market value",
+          "+5.00 Move speed",
+          "+28.0C Maximum comfortable temperature",
+          "+19.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Eating speed",
+          "+110 Carrying capacity",
+          "+20 Meat amount",
+          "+40 Leather amount",
+          "+90% Pain shock threshold",
+          "+50% Psychic sensitivity",
+          "+40% Mental break threshold",
+          "-200% Toxic resistance",
+          "-50% Toxic environment resistance",
+          "+0.8 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+0.8 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+120% Mechanoid shredding efficiency",
+          "+120% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+125% Construction speed",
+          "+120% Butchery efficiency",
+          "+120% Butchery speed",
+          "+100.00% Food poison chance",
+          "+0.3 Cooking speed",
+          "+100% Plant work speed",
+          "+110% Global learning factor",
+          "+100% Research speed",
+          "+80% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+110% Medical surgery success chance",
+          "+100% Immunity gain speed",
+          "+200% Mining speed",
+          "+200% Deep drilling speed",
+          "+80% Mining yield",
+          "+0.1 Anty Egg Breeding Speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.",
+      "defName": "Anty",
       "enabled": true,
-      "name": "Moyo",
-      "price": 5333
+      "name": "Anty",
+      "price": 13333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "Tribal_Proty",
+      "enabled": false,
+      "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+50% Flammability",
+          "+3 Honor value",
+          "+$2200 Market value",
+          "+5.00 Move speed",
+          "+35% Mental break threshold",
+          "+20.0C Maximum comfortable temperature",
+          "-1.0C Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100% Sell price multiplier",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+90% Rest rate multiplier",
+          "+80% Plant work speed",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race that lives on the ruins of an unknown civilization. Also called Far North or Yeti, they live in a small society over a wide radius.",
+      "defName": "Maru",
+      "enabled": true,
+      "name": "Maru",
+      "price": 3667
     },
     {
       "data": {
@@ -3860,9 +4178,6 @@
         "stats": [
           "+55.00 Mass",
           "+100% Flammability",
-          "+0.9 Melee dodge chance",
-          "+90% Melee critical chance",
-          "+80% Melee parry chance",
           "+$2000 Market value",
           "+4.85 Move speed",
           "+38% Mental break threshold",
@@ -3876,9 +4191,10 @@
           "+50 Leather amount",
           "+80% Pain shock threshold",
           "+120% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
           "+0.8 Melee hit chance",
           "+80% Aiming time",
-          "+1.2 Weapon handling",
+          "+1.2 Shooting accuracy",
           "+100.00% Negotiation ability",
           "+100% Sell price multiplier",
           "+100.00% Social impact",
@@ -3897,10 +4213,7 @@
           "+120% Drug synthesis speed",
           "+120% Medical surgery success chance",
           "+80% Mining speed",
-          "+100% Mining yield",
-          "+120.00% Aiming accuracy",
-          "+100% Suppressability",
-          "+100% Smoke sensitivity"
+          "+100% Mining yield"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3915,98 +4228,8 @@
       "data": {
         "customName": false,
         "stats": [
-          "+90.00 Mass",
-          "+35% Flammability",
-          "+0.9 Melee dodge chance",
-          "+105% Melee critical chance",
-          "+105% Melee parry chance",
-          "+$2800 Market value",
-          "+2 Honor value",
-          "+4.50 Move speed",
-          "+30.0C Maximum comfortable temperature",
-          "+10.0C Minimum comfortable temperature",
-          "+120% Injury healing factor",
-          "+120% Rest rate multiplier",
-          "+200% Eating speed",
-          "+0.00% Food poison chance",
-          "+135% Immunity gain speed",
-          "+150 Carrying capacity",
-          "+100 Meat amount",
-          "+60 Leather amount",
-          "+5% Psychic sensitivity",
-          "+55.00% Social impact",
-          "+115% General labor speed",
-          "+100% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+75% Aiming time",
-          "+100% Suppressability",
-          "+90% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A subspecies of the Moyo race, usually babies born after Moyo fertilized by creature infected with the Leviathan virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
-      "defName": "Alien_RedMoyo",
-      "enabled": true,
-      "name": "Red Moyo",
-      "price": 5333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+30% Flammability",
-          "+1.0 Melee dodge chance",
-          "+120% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$3500 Market value",
-          "+5.00 Move speed",
-          "+40% Mental break threshold",
-          "+42.0C Maximum comfortable temperature",
-          "+10.0C Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+70 Carrying capacity",
-          "+55 Meat amount",
-          "+55 Leather amount",
-          "+80% Pain shock threshold",
-          "+130.00% Negotiation ability",
-          "+120% Sell price multiplier",
-          "+120.00% Social impact",
-          "+110% Mechanoid shredding efficiency",
-          "+110% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+90% Research speed",
-          "+70% Mining speed",
-          "+105% Butchery efficiency",
-          "+90% Butchery speed",
-          "+80.00% Food poison chance",
-          "+1.1 Cooking speed",
-          "+110% Rest rate multiplier",
-          "+80% Plant work speed",
-          "+110% Suppressability",
-          "+140% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
-      "defName": "Kurin_Race",
-      "enabled": true,
-      "name": "Kurin",
-      "price": 5833
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+50.00 Mass",
           "+100% Flammability",
-          "+1.1 Melee dodge chance",
-          "+95% Melee critical chance",
-          "+100% Melee parry chance",
           "+$2000 Market value",
           "+4.85 Move speed",
           "+31.0C Maximum comfortable temperature",
@@ -4018,6 +4241,7 @@
           "+110% Eating speed",
           "+35 Meat amount",
           "+30 Leather amount",
+          "+1.2 Melee dodge chance",
           "+118% Aiming time",
           "+85.00% Negotiation ability",
           "+107.00% Social impact",
@@ -4043,9 +4267,6 @@
         "stats": [
           "+50.00 Mass",
           "+100% Flammability",
-          "+1.1 Melee dodge chance",
-          "+95% Melee critical chance",
-          "+100% Melee parry chance",
           "+$2000 Market value",
           "+4.85 Move speed",
           "+31.0C Maximum comfortable temperature",
@@ -4057,6 +4278,7 @@
           "+110% Eating speed",
           "+35 Meat amount",
           "+30 Leather amount",
+          "+1.2 Melee dodge chance",
           "+118% Aiming time",
           "+75.00% Negotiation ability",
           "+95.00% Social impact",
@@ -4075,280 +4297,6 @@
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": true,
-        "stats": [
-          "+320.00 Mass",
-          "+0% Flammability",
-          "+1.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+0% Fertility",
-          "+1000% Global certainty loss factor",
-          "-100.0 Beauty",
-          "+$3000 Market value",
-          "+4.15 Move speed",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+110 Carrying capacity",
-          "+60 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Weapon handling",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+7.278 Armor - Blunt",
-          "+8.92 Armor - Sharp",
-          "+8.92 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
-      "defName": "AT_dreadnought",
-      "enabled": false,
-      "name": "antydreadnought",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": true,
-        "stats": [
-          "+520.00 Mass",
-          "+0% Flammability",
-          "+0.0 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+0% Fertility",
-          "+1000% Global certainty loss factor",
-          "-100.0 Beauty",
-          "+$3000 Market value",
-          "+2.15 Move speed",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+200% Eating speed",
-          "+110 Carrying capacity",
-          "+60 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Weapon handling",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+7.278 Armor - Blunt",
-          "+12.08 Armor - Sharp",
-          "+12.08 Body part RHA"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
-      "defName": "AT_Hiveguard",
-      "enabled": false,
-      "name": "antyhiveguard",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+200% Flammability",
-          "+0.8 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+0% Fertility",
-          "+1000% Global certainty loss factor",
-          "+70% Lifespan factor",
-          "-100.0 Beauty",
-          "+$8000 Market value",
-          "+5.00 Move speed",
-          "+28.0C Maximum comfortable temperature",
-          "+19.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+110 Carrying capacity",
-          "+20 Meat amount",
-          "+40 Leather amount",
-          "+90% Pain shock threshold",
-          "+50% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "-200% Toxic resistance",
-          "-50% Toxic environment resistance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+0.8 Weapon handling",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+120% Mechanoid shredding efficiency",
-          "+120% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+125% Construction speed",
-          "+120% Butchery efficiency",
-          "+120% Butchery speed",
-          "+100.00% Food poison chance",
-          "+0.3 Cooking speed",
-          "+100% Plant work speed",
-          "+110% Global learning factor",
-          "+100% Research speed",
-          "+80% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+110% Medical surgery success chance",
-          "+100% Immunity gain speed",
-          "+200% Mining speed",
-          "+80% Mining yield",
-          "+0.1 Anty Egg Breeding Speed",
-          "+50% Suppressability",
-          "+90% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.",
-      "defName": "Anty",
-      "enabled": true,
-      "name": "Anty",
-      "price": 13333
-    },
-    {
-      "data": {
-        "customName": true,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
-      "defName": "Tribal_Proty",
-      "enabled": false,
-      "name": "human-doll",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Mass",
-          "+70% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+0 Honor value",
-          "+38.0C Maximum comfortable temperature",
-          "+4.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+120% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+99% Pain shock threshold",
-          "+80% Toxic resistance",
-          "+75% Toxic environment resistance",
-          "+60% Psychic sensitivity",
-          "+0% Global learning factor",
-          "+0.00% Food poison chance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Weapon handling",
-          "+0 Armor - Sharp",
-          "+0 Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+80.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+30% Mental break threshold",
-          "+100% Global work speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical operation speed",
-          "+100% Medical surgery success chance",
-          "+100% Construction speed",
-          "+10% Research speed",
-          "+0% Fertility",
-          "+50% Suppressability",
-          "+0% Smoke sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This pawn is automaton designed by PnL Industry.",
-      "defName": "Paniel_Race",
-      "enabled": true,
-      "name": "Paniel",
       "price": 3333
     }
   ]
