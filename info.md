@@ -110,6 +110,7 @@ This is a list of a few rules that Gorlath is playing with for this modpack.
 <ol type="1">
 <li>Only Anty pawns.</li>
 <li>Protect the Queen at all costs.</li>
+<li>!buy pawn disabled, only queen can make eggs</li>
 <li>Permadeath unless the game gives a Resurrector Serum by itself.</li>
 <li>Will add more here as edge cases become apparent. </li>
 </ol>
