@@ -102,3 +102,12 @@ a graphical way. It also redirects some of the responses from Twitch Toolkit to 
 chat a bit. So, if you're logged into Puppeeter and you're wondering why the bot isn't responding to you,
 you should check the `TT` tab on the website first.
 {%- endif -%}
+
+
+## Da Rulez
+
+This is a list of a few rules that Gorlath is playing with for this modpack.
+1: Only Anty pawns.
+2: Protect the Queen at all costs. 
+3: Permadeath unless the game gives a Resurrector Serum by itself.
+4: Will add more here as edge cases become apparent. 
