@@ -107,7 +107,9 @@ you should check the `TT` tab on the website first.
 ## Da Rulez
 
 This is a list of a few rules that Gorlath is playing with for this modpack.
-1: Only Anty pawns.
-2: Protect the Queen at all costs. 
-3: Permadeath unless the game gives a Resurrector Serum by itself.
-4: Will add more here as edge cases become apparent. 
+<ol type="1">
+<li>Only Anty pawns.</li>
+<li>Protect the Queen at all costs.</li>
+<li>Permadeath unless the game gives a Resurrector Serum by itself.</li>
+<li>Will add more here as edge cases become apparent. </li>
+</ol>
