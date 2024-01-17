@@ -292,12 +292,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 9000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 9600,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{

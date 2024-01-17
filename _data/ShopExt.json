@@ -3862,7 +3862,7 @@
         "stats": [
           "+120.00 Mass",
           "+0% Flammability",
-          "+1000% Global certainty loss factor",
+          "+300% Global certainty loss factor",
           "-100.0 Beauty",
           "+$3000 Market value",
           "+4.15 Move speed",
@@ -3922,7 +3922,7 @@
         "stats": [
           "+320.00 Mass",
           "+0% Flammability",
-          "+1000% Global certainty loss factor",
+          "+300% Global certainty loss factor",
           "-100.0 Beauty",
           "+$3000 Market value",
           "+4.15 Move speed",
@@ -3982,7 +3982,7 @@
         "stats": [
           "+520.00 Mass",
           "+0% Flammability",
-          "+1000% Global certainty loss factor",
+          "+300% Global certainty loss factor",
           "-100.0 Beauty",
           "+$3000 Market value",
           "+2.15 Move speed",
@@ -4042,7 +4042,7 @@
         "stats": [
           "+95.00 Mass",
           "+200% Flammability",
-          "+1000% Global certainty loss factor",
+          "+300% Global certainty loss factor",
           "+70% Lifespan factor",
           "-100.0 Beauty",
           "+$8000 Market value",
