@@ -288,6 +288,12 @@
     "version": null
   },
   {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Gorlath",
     "name": "Gorlath's Anty Tweaks",
     "steamId": null,
@@ -318,12 +324,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Aoi_nasuko",
     "name": "HAR Xenotype Description Expansion",
     "steamId": null,
@@ -332,12 +332,6 @@
   {
     "author": "Zaire82",
     "name": "HD Head Attatchments for Nals Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Anty the war ant race",
     "steamId": null,
     "version": null
   },
@@ -626,6 +620,12 @@
   {
     "author": "Gorlath",
     "name": "RBSE Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
     "steamId": null,
     "version": null
   },

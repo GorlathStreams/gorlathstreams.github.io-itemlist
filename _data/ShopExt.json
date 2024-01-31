@@ -1926,7 +1926,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
+        "mod": "Humanoid Alien Races ~ Dev",
         "karmaTypeForAdding": null
       },
       "defName": "Xenophobia",
@@ -1948,7 +1948,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
+        "mod": "Humanoid Alien Races ~ Dev",
         "karmaTypeForAdding": null
       },
       "defName": "Xenophobia",
@@ -4077,7 +4077,7 @@
           "+100.00% Food poison chance",
           "+0.3 Cooking speed",
           "+100% Plant work speed",
-          "+110% Global learning factor",
+          "+130% Global learning factor",
           "+100% Research speed",
           "+80% Medical tend quality",
           "+100% Drug synthesis speed",
