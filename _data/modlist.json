@@ -282,8 +282,20 @@
     "version": null
   },
   {
+    "author": "Gorlath",
+    "name": "Gene Forge HAR Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "theactualspinny",
     "name": "Gene Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
     "steamId": null,
     "version": null
   },
@@ -624,12 +636,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - Experimentals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "hourai_haikus",
     "name": "Rabbie Facial Animation",
     "steamId": null,
@@ -644,12 +650,6 @@
   {
     "author": "MrHydralisk",
     "name": "Ratkin Growth Adjusted",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "Ratkin Texture Reset",
     "steamId": null,
     "version": null
   },
